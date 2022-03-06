@@ -1,4 +1,4 @@
 # Eli T. Drumm
-## etdr
+## etdr ❱ [eli.td](https://eli.td) ❱ [eli@eli.td](mailto:eli@eli.td)
 
-*coming soon*
+Academically trained in cognitive science and logic, currently working in programming, data, and the teaching thereof.
